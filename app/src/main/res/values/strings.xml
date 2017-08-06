@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="button_text">Seek Guidance from"\n"the Blind Eternities</string>
+    <string name="eightBall">This is the ball</string>
 </resources>
